@@ -8,5 +8,9 @@
 - Các lệnh git cơ bản 
 	+ các lệnh thao tác local 
 		git init : khởi tạo kho lưu trữ ở local
-		
-	
+		git add <tên tệp cần lưu> | git add . : thêm tệp vào để lưu trữ
+		git status : kiểm tra trạng thái của các tệp chưa được commit
+		git commit -m "nôi dung comit" : xác nhân lưu trữ
+
+
+// sau khi commit lần 2
