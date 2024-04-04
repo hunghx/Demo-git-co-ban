@@ -1,0 +1,12 @@
+- Git cơ bản : 
+	+ Git Local : 
+			- máy tính cá nhân
+			- Cài đặt Git :
+	+ Git Remote : (điều khiển từ xa)
+			- GitHub, GitLab
+		
+- Các lệnh git cơ bản 
+	+ các lệnh thao tác local 
+		git init : khởi tạo kho lưu trữ ở local
+		
+	
